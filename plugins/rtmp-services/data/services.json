@@ -2635,7 +2635,7 @@
             ]
         },
         {
-            "name": "CHZZK",
+            "name": "CHZZK | 치지직",
             "common": false,
             "servers": [
                 {
@@ -2646,7 +2646,9 @@
             "recommended": {
                 "keyint": 1,
                 "profile": "high",
-                "bframes": 0
+                "bframes": 0,
+                "max video bitrate": 8000,
+                "max audio bitrate": 192
             },
             "stream_key_link": "https://studio.chzzk.naver.com/setting",
             "supported video codecs": [
